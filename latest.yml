@@ -1,9 +1,9 @@
-version: 0.0.2
+version: 4.0.1
 files:
-  - url: dlb-wallet Setup 0.0.2.exe
-    sha512: ad9XTvi1LjDu0406790pOkGeguY6AqTRIFOZMz8kKflMDoxZ9Smu3rxRJQLkSTldE+fKJ/aJ4KRf0LWE2VC55g==
-    size: 42548563
-path: dlb-wallet Setup 0.0.2.exe
-sha512: ad9XTvi1LjDu0406790pOkGeguY6AqTRIFOZMz8kKflMDoxZ9Smu3rxRJQLkSTldE+fKJ/aJ4KRf0LWE2VC55g==
-sha2: c0754fadc737f515f2401988e551b7ff0c9ba1972994e38caa0b86efca71eedb
-releaseDate: '2019-06-25T08:56:17.905Z'
+  - url: dlb-wallet Setup 4.0.1.exe
+    sha512: frXvFuduQOYeqZqIDEpFgX/s4eRWu73aUjnXjHqXCwuK6+kRF/BJbBG6yokI6eJPqgzV7jk6Uek/X52VmNL+fg==
+    size: 42548618
+path: dlb-wallet Setup 4.0.1.exe
+sha512: frXvFuduQOYeqZqIDEpFgX/s4eRWu73aUjnXjHqXCwuK6+kRF/BJbBG6yokI6eJPqgzV7jk6Uek/X52VmNL+fg==
+sha2: 7f13c074705ce7829d64e8923677c626db8f2932bd5774b2db60e95416b277eb
+releaseDate: '2019-06-25T10:09:50.571Z'

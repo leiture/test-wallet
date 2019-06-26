@@ -26,5 +26,5 @@ nsis:
   allowToChangeInstallationDirectory: true
 publish:
   - provider: generic
-    url: 'https://github.com/leiture/test-wallet.git'
+    url: '127.0.0.1:5500'
 electronVersion: 3.1.11
